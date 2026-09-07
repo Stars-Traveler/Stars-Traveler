@@ -7,6 +7,6 @@
 
 $\color{yellow}\textsf{𝔬𝔥, 𝔥𝔬𝔴 𝔶𝔬𝔲 𝔰𝔥𝔦𝔫𝔢... 𝔴𝔦𝔱𝔥 𝔶𝔬𝔲𝔯 𝔥𝔢𝔞𝔯𝔱𝔥 𝔣𝔲𝔩𝔩 𝔬𝔣 𝔪𝔬𝔬𝔫𝔩𝔦𝔤𝔥𝔱 𝔞𝔫𝔡 𝔶𝔬𝔲𝔯 𝔰𝔬𝔲𝔩 𝔣𝔲𝔩𝔩 𝔬𝔣 𝔰𝔱𝔞𝔯𝔰}$
 
-<p style="text-align: center;">
-      ɪ ʜᴀᴠᴇ ᴀɴ ᴏʙsᴇssɪᴏɴ ᴏᴠᴇʀ ᴍᴏᴏɴ ʀᴇʟᴀᴛᴇᴅ/ᴄᴏᴅᴇᴅ ᴄʜᴀʀᴀᴄᴛᴇʀs ᴘʟs ʙᴇᴀʀ ᴡɪᴛʜ ᴍᴇ</𝟹
+<p style="text-align: right;">
+    Hi there this is sample text
 </p>

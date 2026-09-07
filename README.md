@@ -1,4 +1,4 @@
 # stars-traveler
-<code><img width="50%" src="https://i.pinimg.com/736x/04/29/70/0429701e7ad9d19a99da14aff1ccdb79.jpg"></code>
+<code><img width="50%" src="https://cdn.discordapp.com/attachments/1452236845353013360/1546609408455348244/Picsart_26-09-07_21-53-18-947.png?ex=6aa067c1&is=6a9f1641&hm=f54a72fc0bf71c13d0459b1c50e06734d6d84f37e2ab0e57e7d87d60345e9e06&)"></code>
 
 I have an obsession over moon related/coded characters pls bear with me</3

@@ -1,4 +1,4 @@
 # stars-traveler
 <code><img width="50%" src="https://i.pinimg.com/736x/04/29/70/0429701e7ad9d19a99da14aff1ccdb79.jpg"></code>
 
-I have an obsession over moon related characters pls bear with me</3
+I have an obsession over moon related/coded characters pls bear with me</3

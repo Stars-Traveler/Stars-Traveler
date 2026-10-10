@@ -2,7 +2,7 @@
 # $\color{lightblue}\textsf{𝖜𝖊 𝖈𝖆𝖓 𝖆𝖑𝖜𝖆𝖞𝖘 𝖘𝖍𝖆𝖗𝖊 𝖙𝖍𝖊 𝖒𝖔𝖔𝖓 𝖆𝖓𝖉 𝖙𝖍𝖊 𝖘𝖙𝖆𝖗𝖘}$
 
 <p align="center">
-<code><img width="100%" src="https://freeimage.host/i/nMVN6va"><img width="100%" src="https://iili.io/nMVN6va.md.png" alt="nMVN6va.md.png"></code>
+<code><img width="100%" src="<a href="https://freeimage.host/i/nMVermJ"><img width="100%" src="https://iili.io/nMVermJ.md.png" alt="nMVermJ.md.png"></code>
 </p>
 
 $\color{yellow}\textsf{𝔬𝔥, 𝔥𝔬𝔴 𝔶𝔬𝔲 𝔰𝔥𝔦𝔫𝔢... 𝔴𝔦𝔱𝔥 𝔶𝔬𝔲𝔯 𝔥𝔢𝔞𝔯𝔱𝔥 𝔣𝔲𝔩𝔩 𝔬𝔣 𝔪𝔬𝔬𝔫𝔩𝔦𝔤𝔥𝔱 𝔞𝔫𝔡 𝔶𝔬𝔲𝔯 𝔰𝔬𝔲𝔩 𝔣𝔲𝔩𝔩 𝔬𝔣 𝔰𝔱𝔞𝔯𝔰}$
